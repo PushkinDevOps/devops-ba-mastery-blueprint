@@ -10,8 +10,7 @@ This repository is where curiosity meets structured learning.
 - Business Analyst turned DevOps
 
 
-  🎯 Business Analysis Skills Summary — Liteboho Mbhele
-Liteboho possesses a rare blend of technical DevOps expertise and Business Analysis acumen, making him adept at bridging the gap between infrastructure teams and business stakeholders in the telecommunications space.
+  🎯 Business Analysis Skills Summary — Liteboho Mbhele possesses a rare blend of technical DevOps expertise and Business Analysis acumen, making him adept at bridging the gap between infrastructure teams and business stakeholders in the telecommunications space.
 Key BA capabilities include:
 - Requirements Gathering & Documentation: Skilled at capturing, analyzing, and documenting business, technical, and process requirements (BRS, Functional Specs).
 - Process Modelling & Optimization: Experienced in designing and improving telecom and DevOps-related processes using BPMN and process flow diagrams.
